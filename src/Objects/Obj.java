@@ -1,6 +1,8 @@
 package Objects;
 
-public class Obj {
+import java.util.ArrayList;
+
+public class Obj  {
     protected String id;
     private double weight;
     public Obj(String id, double weight){
@@ -13,5 +15,8 @@ public class Obj {
     public String getId(){
         return id;
     }
-
+    @Override
+    public String toString(){
+        return "id: "+id+", weight: "+weight;
+    }
 }

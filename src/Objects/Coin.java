@@ -17,5 +17,9 @@ public class Coin extends Obj{
     public String getDescription() {
         return description;
     }
+    @Override
+    public String toString(){
+        return super.toString()+", name: "+name+", description: "+description;
+    }
 
 }
