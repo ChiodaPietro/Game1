@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Obj  {
     protected String id;
     private double weight;
+    //main class of an object
     public Obj(String id, double weight){
         this.id= id;
         this.weight=weight;

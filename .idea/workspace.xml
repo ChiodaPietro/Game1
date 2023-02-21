@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0fc956c-8ff1-4737-b6ce-29b636a585ed" name="Changes" comment="a lot of problems, maybe we should use the dynamic lists">
+    <list default="true" id="b0fc956c-8ff1-4737-b6ce-29b636a585ed" name="Changes" comment="Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/ObjectStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/ObjectStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Obj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Weapon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Objects/Weapon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676894066034</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Main">
+      <created>1676964228919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676964228919</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,15 +109,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="a lot of problems, maybe we should use the dynamic lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="a lot of problems, maybe we should use the dynamic lists" />
+    <MESSAGE value="Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Main/Main.java</url>
-          <line>6</line>
-          <properties class="Main.Main" method="main">
+          <line>4</line>
+          <properties class="Main.Main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
